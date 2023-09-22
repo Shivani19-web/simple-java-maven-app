@@ -12,7 +12,6 @@ public class App
 
     public static void main(String[] args) {
         System.out.println(new App().getMessage());
-        System.out.println("Hi I am Jenkins file");
     }
 
     private final String getMessage() {
